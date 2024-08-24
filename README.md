@@ -1,3 +1,10 @@
+Your mission, should you choose to accept it, will be to build a data visualization web
+application that can analyze e-commerce data from a sample Shopify store stored in
+MongoDB. You will build an API layer that reads the data from the database and performs the
+necessary queries to manipulate data and serve it to the front end through a REST API. The
+front end should connect to your API and visualize the data using Chart.js or a similar
+JavaScript visualization library.
+
 Backend (Node.js with Express)
 backend/
 ├── config/
